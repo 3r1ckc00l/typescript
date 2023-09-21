@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Download typescript and added into reatjs apps
 
-$npx create-react-app my-app --template typescript
+$npx create-react-app my-app --template typescript.\
 $npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 
 ## Available Scripts
